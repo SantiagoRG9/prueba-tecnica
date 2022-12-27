@@ -1,0 +1,11 @@
+#DJANGO
+Django==4.1.4
+#DJANGO REST-FRAMEWORK
+djangorestframework==3.14.0
+#HISTORICO DE MODELOS
+django-simple-history==3.2.0
+#IMAGENES
+Pillow==9.3.0
+#SWAGGER
+drf-yasg==1.21.4
+
